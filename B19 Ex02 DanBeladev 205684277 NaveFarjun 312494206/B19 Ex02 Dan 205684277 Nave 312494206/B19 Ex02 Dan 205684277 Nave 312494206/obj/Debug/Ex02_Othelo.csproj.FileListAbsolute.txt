@@ -1,0 +1,8 @@
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\bin\Debug\B19 Ex02 Dan 205684277 Nave 312494206.exe
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\bin\Debug\B19 Ex02 Dan 205684277 Nave 312494206.pdb
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\obj\Debug\Ex02_Othelo.csprojAssemblyReference.cache
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\obj\Debug\Ex02_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\obj\Debug\Ex02_Othelo.csproj.CopyComplete
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\obj\Debug\B19 Ex02 Dan 205684277 Nave 312494206.exe
+C:\Users\Dan Beladev\Desktop\B19 Ex02 DanBeladev 205684277 NaveFarjun 312494206\B19 Ex02 Dan 205684277 Nave 312494206\B19 Ex02 Dan 205684277 Nave 312494206\obj\Debug\B19 Ex02 Dan 205684277 Nave 312494206.pdb
